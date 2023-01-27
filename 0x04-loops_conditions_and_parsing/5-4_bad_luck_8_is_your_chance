@@ -12,7 +12,7 @@ while [ "$i" -lt 11 ]; do
     echo "good luck"
   else
     echo "Best School"
-  fi
+  if
 
   ((i++))
 done
