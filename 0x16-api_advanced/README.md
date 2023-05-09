@@ -21,6 +21,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
  * How to parse JSON results from an API
  * How to make a recursive API call
  * How to sort a dictionary by value
+ 
 | Tasks | Description|
 | --- | --- |
 | 0. How many subs? | Write a function that queries the Reddit API and returns the number of subscribers (not active users, total subscribers) for a given subreddit. If an invalid subreddit is given, the function should return 0. |
