@@ -27,6 +27,7 @@ When debugging, sometimes logs are not enough. Either because the software is br
 ## Install puppet-lint
 
 $ apt-get install -y ruby
+
 $ gem install puppet-lint -v 2.1.1 
 
 ## Author
